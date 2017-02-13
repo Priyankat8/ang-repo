@@ -3,6 +3,7 @@ import {Component, NgModule} from '@angular/core'
 import {BrowserModule} from '@angular/platform-browser'
 
 //Root app component..
+//test new line conflict insertion
 @Component({
   selector: 'my-app',
   template: `
