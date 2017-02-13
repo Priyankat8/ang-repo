@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "name": "Chicken Tandoori",
+      "category": "Appetizer"
+    },
+    {
+      "id": 12,
+      "name": "Chilli Chicken",
+      "side": "Appetizer"
+    },
+    {
+      "id": 13,
+      "name": "Chicken 65",
+      "side": "Appetizer"
+    }
+  ]
+}
