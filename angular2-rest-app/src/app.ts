@@ -2,7 +2,7 @@
 import {Component, NgModule} from '@angular/core'
 import {BrowserModule} from '@angular/platform-browser'
 
-//Root app component..
+//Root app component..test test test
 @Component({
   selector: 'my-app',
   template: `
